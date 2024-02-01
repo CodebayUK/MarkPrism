@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<TranslationRequirement>
+    <PressSheet externalRef="12345" title="hello" shortDescription="this is a short description" longDescription="this is a long description" language="eng">
+        <orders>
+            <order language="spa" dueDate="2024/01/20T12:00:00Z" externalRef="1"/>
+            <order language="deu" dueDate="2024/01/20T12:00:00Z" externalRef="2"/>
+            <order language="ita" dueDate="2024/01/20T12:00:00Z" externalRef="3"/>
+            <order language="heb" dueDate="2024/01/20T13:00:00Z" externalRef="4"/>
+        </orders>
+    </PressSheet>
+    <PressSheet externalRef="12346" title="hello2" shortDescription="this is a short description2" longDescription="this is a long description2" language="eng">
+        <orders>
+            <order language="nor" dueDate="2024/02/01T12:00:00Z" externalRef="5"/>
+            <order language="swe" dueDate="2024/01/10T13:00:00Z" externalRef="6"/>
+        </orders>
+    </PressSheet>
+</TranslationRequirement>
